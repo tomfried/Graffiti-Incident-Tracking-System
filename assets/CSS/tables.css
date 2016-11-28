@@ -9,7 +9,7 @@ th {
 	text-transform: uppercase;
 	text-align: left;
 	padding: 6px 6px 6px 12px;
-  background: linear-gradient(#ffbc00 5%, #ffdd7f 100%);
+        background: linear-gradient(#ffbc00 5%, #ffdd7f 100%);
 }
 th.nobg {
 	border-top: 0;
