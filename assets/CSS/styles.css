@@ -276,7 +276,7 @@ input[type=button]#upload-images:hover,
     margin-top: 1.5em;
 }
 
-/* Table Syles - Borrows from an external source - don't remember which one */
+/* Table Syles - Code from an external source - don't remember which one */
 th {
     background: linear-gradient(#ffbc00 1%, #ffdd7f 100%);
     border: 1px solid #ffbc00;
@@ -407,7 +407,7 @@ table#tablenote {
     width: 7%;
 }
 
-/* Dropdown from: http://www.w3schools.com/howto/howto_js_dropdown.asp */
+/* Dropdown code from: http://www.w3schools.com/howto/howto_js_dropdown.asp */
 /* Dropdown Button */
 .dropbtn {
     background-color: rgba(255, 255, 255, 0);
