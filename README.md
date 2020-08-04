@@ -4,7 +4,7 @@ Graffiti Incident Tracking System and Internet Software
 ## Purpose
 To create a website database that might resemble old government looking forms and design it to fit a very modern need (fast-paced, interactive-design, paperless systems).
 
-## How to See
+## Live Version
 A live version of this code in action can be found at: 
 
 http://teamutah.byethost10.com/ 
