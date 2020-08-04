@@ -6,9 +6,8 @@ To create a website database that might resemble old government looking forms an
 
 A live version of this code in action can be found at: 
 http://teamutah.byethost10.com/ 
-
+NOTE - I don't know if this website hosting service is safe or whatever else, so proceed at your own caution, but anyway I originally put the code on there at that address and was confirme to still be working on ~August 1, 2020.
 username: **admin**
-
 password: **Banana1234**
 
 
